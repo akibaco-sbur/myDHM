@@ -1,0 +1,4 @@
+timestamp,mode,label,unit,Nx,Ny,d_carrier_px,r_filter_px,filter_to_carrier,carrier_snr_db,pre_comp_span_rad,final_phi_span_rad,bowl_residual_rad,unwrap_residues,border_spike_ratio,signal_span,bg_rms,signal_to_bg_rms,amp_cv,auto_flags
+2026-11-25 07:28:28,1,mode1,高さ [nm],460,460,220.62,100,0.453,58.7,48.205,5.158,0.0137,0,1.422,198.904,0.6869,289.58,0.263,OK
+2026-11-25 07:47:25,1,mode1,高さ [nm],460,460,220.62,100,0.453,58.7,48.205,4.486,0.0016,0,0.972,176.959,0.5481,322.84,0.263,OK
+2026-11-25 11:08:17,1,mode1,高さ [nm],460,460,220.62,100,0.453,58.7,47.592,4.486,0.0016,0,0.972,176.959,0.5481,322.84,0.263,OK

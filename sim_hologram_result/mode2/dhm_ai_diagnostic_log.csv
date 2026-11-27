@@ -1,0 +1,6 @@
+timestamp,mode,label,unit,Nx,Ny,d_carrier_px,r_filter_px,filter_to_carrier,carrier_snr_db,pre_comp_span_rad,final_phi_span_rad,bowl_residual_rad,unwrap_residues,border_spike_ratio,signal_span,bg_rms,signal_to_bg_rms,amp_cv,auto_flags
+2026/11/25 7:49,2,mode2,蠕ｩ蜈・ｽ咲嶌 [rad],1800,1080,505.72,212,0.419,77.8,2.662,10.251,2.0431,6,0.365,6.628,0.1288,51.45,0.237,WARN_BOWL_ABERRATION_RESIDUAL
+2026/11/25 8:05,2,mode2,蠕ｩ蜈・ｽ咲嶌 [rad],1800,1080,505.72,212,0.419,77.8,2.241,10.194,2.0965,6,0.282,6.568,0.1001,65.61,0.237,WARN_BOWL_ABERRATION_RESIDUAL
+2026/11/25 8:08,2,mode2,蠕ｩ蜈・ｽ咲嶌 [rad],1800,1080,505.72,212,0.419,77.8,2.241,10.194,2.0965,6,0.282,6.568,0.1001,65.61,0.237,WARN_BOWL_ABERRATION_RESIDUAL
+2026/11/25 10:57,2,mode2,蠕ｩ蜈・ｽ咲嶌 [rad],1800,1080,505.72,212,0.419,77.8,2.241,10.194,2.0965,6,0.282,6.568,0.1001,65.61,0.237,WARN_BOWL_ABERRATION_RESIDUAL
+2026/11/25 11:07,2,mode2,蠕ｩ蜈・ｽ咲嶌 [rad],1800,1080,505.72,212,0.419,77.8,2.241,10.194,2.0965,6,0.282,6.568,0.1001,65.61,0.237,WARN_BOWL_ABERRATION_RESIDUAL
